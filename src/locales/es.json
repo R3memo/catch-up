@@ -1,0 +1,17 @@
+{
+  "read-more": "Leer mmas",
+  "unavaible-news": "Servicio de noticias no disponible en este momento.",
+  "authoring-phrase": {
+    "intro": "HEcho con",
+    "use": "utilizando",
+    "author": "Por el Equipo de Desarrollo de {brand}"
+  },
+  "article": {
+    "share": "Compartir",
+    "copy-to-clipboard": "Copiar el portapapeles"
+  },
+  "footer": {
+    "power-by": "Contenido proporcinado por",
+    "and": "y"
+  }
+}
