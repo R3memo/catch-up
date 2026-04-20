@@ -1,8 +1,8 @@
 {
   "read-more": "Leer mmas",
-  "unavaible-news": "Servicio de noticias no disponible en este momento.",
+  "unavailable-news": "Servicio de noticias no disponible en este momento.",
   "authoring-phrase": {
-    "intro": "HEcho con",
+    "intro": "Hecho con",
     "use": "utilizando",
     "author": "Por el Equipo de Desarrollo de {brand}"
   },
